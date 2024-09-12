@@ -27,7 +27,7 @@ echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━�
 echo -e "  Developer » MTS࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
 echo -e "  Pembuat : ${green}MTS࿐® ${NC}"
-echo -e "  LISENSI MICROTECH.STORE࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  LICENSE MICROTECH.STORE࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
