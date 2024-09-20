@@ -23,7 +23,11 @@ Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi y
 ```
 wget -q https://raw.githubusercontent.com/wayangkulit95/final/GM/update.sh && chmod +x update.sh && ./update.sh
 ```
-
+## FIX UPDATE SCRIPT 
+RUN COMMAND DIBAWAH UNTUK FIX SC UPDATE
+```
+wget https://raw.githubusercontent.com/wayangkulit95/final/GM/update.sh && +x update.sh && ./update.sh
+```
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
